@@ -62,7 +62,7 @@ const UserRole = () => {
           <Field>
             <Label className="text-sm/6 font-medium text-white">Role</Label>
             <Description className="text-sm/6 text-white/50">
-              Please ask creator for token (token89728&@5389&*Q&)
+              DefaultToken : #defaultTokenForAssessmentPurpose
             </Description>
             <div className="relative">
               <Select
